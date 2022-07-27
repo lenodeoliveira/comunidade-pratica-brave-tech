@@ -1,4 +1,4 @@
-# COP TECH ⚙️
+# Comunidade prática Brave.ag - TECH ⚙️
 
 
 > ### TEMA: TDD (Test Driven Development) ✅
