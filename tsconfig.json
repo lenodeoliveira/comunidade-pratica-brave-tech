@@ -7,17 +7,9 @@
         "strict": true,
         "strictNullChecks": false,
         "allowJs": true,
-        "rootDir": "src",
         "baseUrl": "src",
         "paths": {
            "@/*": ["*"]
-        },
-        "include": [
-            "src"
-        ],
-        "exclude": [
-            "**/*.spec.ts",
-            "**/*.test.ts",
-        ]
+        }
     }
 }
