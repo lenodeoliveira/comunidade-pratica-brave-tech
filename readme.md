@@ -44,3 +44,10 @@ Introdução ao TDD. Assunto abordado na reunião do dia (../../..)
 ## PRÁTICA
 
 Foi criada uma calculadora para, de forma simples, exemplificar alguns dos conceitos do TDD.
+
+> ### Instale as dependências e execute os testes do projeto 🦾
+
+* `npm install`
+* `npm test`
+
+
