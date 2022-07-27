@@ -1,6 +1,5 @@
 # Comunidade prática Brave.ag - TECH ⚙️
 
-
 > ### TEMA: TDD (Test Driven Development) ✅
 
 Introdução ao TDD. Assunto abordado na reunião do dia (../../..)
