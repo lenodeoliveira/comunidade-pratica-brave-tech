@@ -5,9 +5,9 @@
 Introdução ao TDD. Assunto abordado na reunião do dia (29/07/2022)
 
 > ## O que é TDD:
-* Técnica criada por Kent Beck e é um dos pilares do XP (Extreme Programming).
+* Técnica firmada por Kent Beck e é um dos pilares do XP (Extreme Programming).
 * TDD significa Desenvolvimento Orientado por Testes (Test Driven Development)
-* Esse técnica consiste em um ciclo apelidado de Red, Green, Refactor.
+* Essa técnica consiste em um ciclo apelidado de Red, Green, Refactor.
 * Escreve-se o teste para a funcionalidade ao qual queremos implementar (O teste deve falhar, pois ainda não existe o código de produção **RED**);
     - Após falhar criamos a funcionalidade com os requisitos mínimos para que ele possa passar no teste (**GREEN**);
     - Com os testes funcionando chegamos ao passo de refatorar o código. Devemos procurar pontos de melhoria e aplicar boas práticas de programação (**REFACTOR**)
