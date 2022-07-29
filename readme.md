@@ -2,7 +2,7 @@
 
 > ### TEMA: TDD (Test Driven Development) ✅
 
-Introdução ao TDD. Assunto abordado na reunião do dia (../../..)
+Introdução ao TDD. Assunto abordado na reunião do dia (29/07/2022)
 
 > ## O que é TDD:
 * Técnica criada por Kent Beck e é um dos pilares do XP (Extreme Programming).
